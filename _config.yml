@@ -1,3 +1,14 @@
 theme: jekyll-theme-slate
-title: Bem-vindo ao blog Codificando.Data.
-description: Blog pessoal de divulgação de conteúdo digital
+
+jekyll-theme-slate:
+  date_format: "%b %-d, %Y"
+
+
+title: Codificando.Data
+author: Marcel Kaled
+email: codificando.data@gmail.com
+description: > Bem-Vindo ao site do Codificando.Data. Aqui você encontra tutorials e dicas sobre linguagens de programação e análise de dados
+
+# social links
+instagram_username: codificando.data # DO NOT include the @ character, or else the build will fail!
+github_username:  codificando.data # DO NOT include the @ character, or else the build will fail!
