@@ -1,2 +1,2 @@
-# codificando.data.github.io
+# codificandodata.github.io
 Blog Pessoal
